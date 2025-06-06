@@ -1,4 +1,4 @@
-# Build Beautiful GUIs with Python and Tkinter
+# Build beautiful GUIs with Python and Tkinter
 
 ![Creating graphical interfaces with Python and Tkinter.](docs/images/py-tkinter.webp "Creating graphical interfaces with Python and Tkinter.")
 
@@ -83,5 +83,15 @@ Code:
 Code:
 
 - [Python](src/main-window/main.py).
+
+---
+
+### Text
+
+![Text](docs/images/widgets/text.webp "Text")
+
+Code:
+
+- [Python](src/text/main.py).
 
 ---

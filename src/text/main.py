@@ -17,6 +17,9 @@ class App(tk.Frame):
 
         self.pack(expand=tk.TRUE, fill=tk.BOTH, padx=6, pady=6)
 
+        text = tk.Text(master=self, wrap=tk.WORD)
+        text.pack(fill=tk.BOTH, expand=tk.TRUE)
+
 
 if __name__ == '__main__':
     import sys
