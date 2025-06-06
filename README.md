@@ -66,6 +66,16 @@ Code:
 
 ---
 
+### Entry
+
+![Entry](docs/images/widgets/entry.webp "Entry")
+
+Code:
+
+- [Python](src/entry/main.py).
+
+---
+
 ### Label
 
 ![Label](docs/images/widgets/label.webp "Label")
