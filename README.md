@@ -66,6 +66,36 @@ Code:
 
 ---
 
+### Canvas
+
+![Canvas](docs/images/widgets/canvas.webp "Canvas")
+
+Code:
+
+- [Python](src/canvas/main.py).
+
+---
+
+### Checkbutton
+
+![Checkbutton](docs/images/widgets/check-button.webp "Checkbutton")
+
+Code:
+
+- [Python](src/check-button/main.py).
+
+---
+
+### DND
+
+![DND](docs/images/widgets/dnd.webp "DND")
+
+Code:
+
+- [Python](src/dnd/main.py).
+
+---
+
 ### Entry
 
 ![Entry](docs/images/widgets/entry.webp "Entry")
@@ -86,6 +116,16 @@ Code:
 
 ---
 
+### Listbox
+
+![Listbox](docs/images/widgets/listbox.webp "Listbox")
+
+Code:
+
+- [Python](src/listbox/main.py).
+
+---
+
 ### MainWindow
 
 ![MainWindow](docs/images/widgets/main-window.webp "MainWindow")
@@ -93,6 +133,26 @@ Code:
 Code:
 
 - [Python](src/main-window/main.py).
+
+---
+
+### Radiobutton
+
+![Radiobutton](docs/images/widgets/radio-button.webp "Radiobutton")
+
+Code:
+
+- [Python](src/radio-button/main.py).
+
+---
+
+### Scrollbar
+
+![Scrollbar](docs/images/widgets/scrollbar.webp "Scrollbar")
+
+Code:
+
+- [Python](src/scrollbar/main.py).
 
 ---
 
