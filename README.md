@@ -136,6 +136,44 @@ Code:
 
 ---
 
+### Menu
+
+![Menu](docs/images/widgets/menu.webp "Menu")
+
+Code:
+
+- [Python](src/menu/main.py).
+
+---
+
+### Menubutton
+
+![Menubutton](docs/images/widgets/menu-button.webp "Menubutton")
+
+Code:
+
+- [Python](src/menu-button/main.py).
+
+### Notebook
+
+![Notebook](docs/images/widgets/notebook.webp "Notebook")
+
+Code:
+
+- [Python](src/notebook/main.py).
+
+---
+
+### Progressbar
+
+![Progressbar](docs/images/widgets/progressbar.webp "Progressbar")
+
+Code:
+
+- [Python](src/progressbar/main.py).
+
+---
+
 ### Radiobutton
 
 ![Radiobutton](docs/images/widgets/radio-button.webp "Radiobutton")
@@ -143,6 +181,16 @@ Code:
 Code:
 
 - [Python](src/radio-button/main.py).
+
+---
+
+### Scale
+
+![Scale](docs/images/widgets/scale.webp "Scale")
+
+Code:
+
+- [Python](src/scale/main.py).
 
 ---
 
@@ -156,6 +204,16 @@ Code:
 
 ---
 
+### Spinbox
+
+![Spinbox](docs/images/widgets/spinbox.webp "Spinbox")
+
+Code:
+
+- [Python](src/spinbox/main.py).
+
+---
+
 ### Text
 
 ![Text](docs/images/widgets/text.webp "Text")
@@ -163,5 +221,15 @@ Code:
 Code:
 
 - [Python](src/text/main.py).
+
+---
+
+### Treeview
+
+![Treeview](docs/images/widgets/treeview.webp "Treeview")
+
+Code:
+
+- [Python](src/treeview/main.py).
 
 ---
