@@ -205,6 +205,26 @@ Code:
 
 ---
 
+### Separator
+
+![Separator](docs/images/widgets/separator.webp "Separator")
+
+Code:
+
+- [Python](src/separator/main.py).
+
+---
+
+### Sizegrip
+
+![Sizegrip](docs/images/widgets/sizegrip.webp "Sizegrip")
+
+Code:
+
+- [Python](src/sizegrip/main.py).
+
+---
+
 ### Spinbox
 
 ![Spinbox](docs/images/widgets/spinbox.webp "Spinbox")
